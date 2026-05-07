@@ -11,5 +11,10 @@
       "sizes": "any",
       "type": "image/svg+xml"
     }
-  ]
+  ],
+  "lang": "en",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "description": "Professional geotechnical services in Riverside, USA. Soil studies, testing and technical consulting.",
+  "id": "/riverside-0475"
 }
