@@ -3,7 +3,7 @@
   "short_name": "Riverside",
   "start_url": "/",
   "display": "standalone",
-  "theme_color": "#0A2540",
+  "theme_color": "#264653",
   "background_color": "#FFFFFF",
   "icons": [
     {
